@@ -1,0 +1,48 @@
+unit utility;
+
+interface
+uses
+ Winapi.Windows,
+  Winapi.Messages,
+  System.SysUtils,
+  System.Variants,
+  System.Classes,
+  Vcl.Graphics,
+  Vcl.Controls,
+  Vcl.Forms,
+  Vcl.Dialogs,
+  Vcl.ExtCtrls,
+  Vcl.Buttons,
+  Vcl.StdCtrls,
+  Vcl.CheckLst,
+  Vcl.ComCtrls,
+  System.JSON;
+
+
+function capturaClick(RadioAtivo: TRadioButton; RadioInativo:TRadioButton; var status: Integer):boolean;
+
+function capturaValorCombobox(combobox: TCombobox): Integer;
+
+implementation
+
+function capturaClick(RadioAtivo: TRadioButton; RadioInativo:TRadioButton; var status: Integer):boolean;
+
+
+begin
+  if RadioAtivo.Checked  then
+    begin
+      status := 1;
+      Result := true;
+    end
+  else if RadioInativo.Checked then
+    begin
+      status := 0;
+      Result := true;
+    end
+  else
+    Result := false;
+end;
+
+
+
+end.

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/29 09:03:59.000.173,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/12 15:39:19.000.902,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/28 14:51:35.000.006,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/28 15:14:14.000.906,C:\Users\die\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Main.pas</Transaction>
+    <Transaction>2024/09/28 15:14:14.000.906,C:\Users\die\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Main.dfm</Transaction>
+    <Transaction>2024/09/28 15:14:26.000.646,C:\Users\die\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Teste_madcal.dproj</Transaction>
+    <Transaction>2024/09/28 16:19:11.000.734,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit2.pas</Transaction>
+    <Transaction>2024/09/28 16:25:06.000.522,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit2.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\teste.pas</Transaction>
+    <Transaction>2024/09/28 16:25:06.000.522,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit2.dfm=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\teste.dfm</Transaction>
+    <Transaction>2024/09/28 18:02:13.000.759,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\teste.pas=</Transaction>
+    <Transaction>2024/10/01 15:09:04.000.225,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 15:11:25.000.101,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Querys\module.tbPrecos.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 15:12:27.000.183,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 15:12:53.000.277,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Querys\module.produtos.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 15:27:04.000.489,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 15:27:25.000.061,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Querys\module.contas.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 15:30:05.000.296,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 15:30:18.000.638,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 15:30:42.000.566,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\module.orcamento.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 15:30:51.000.323,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\module.orcamento.pas=</Transaction>
+    <Transaction>2024/10/01 15:31:00.000.512,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 15:31:28.000.642,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Querys\module.orcamento.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 17:38:24.000.892,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 17:38:42.000.416,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\qualquer.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 18:34:00.000.476,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\qualquer.pas=</Transaction>
+    <Transaction>2024/10/01 19:05:05.000.650,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 19:05:29.000.659,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Utils\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 19:05:40.000.756,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Utils\Unit1.pas=</Transaction>
+    <Transaction>2024/10/01 19:05:48.000.761,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/01 19:06:02.000.884,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Utils\utils.pas</Transaction>
+    <Transaction>2024/10/01 19:22:57.000.500,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Utils\utils.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Utils\utility.pas</Transaction>
+    <Transaction>2024/10/02 03:38:06.000.676,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 03:39:43.000.221,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Querys\module.itens.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 03:52:14.000.126,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Querys\module.itens.pas=</Transaction>
+    <Transaction>2024/10/02 03:52:43.000.541,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 03:53:41.000.889,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Utils\module.politica.precos.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 03:55:13.000.789,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Utils\module.politica.precos.pas=</Transaction>
+    <Transaction>2024/10/02 03:55:20.000.588,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 03:55:47.000.078,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Querys\module.politica.precos.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/03 13:43:35.000.066,=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+    <Transaction>2024/10/03 13:44:06.000.020,C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Querys\module.itens.pas=C:\Users\die\Documents\Embarcadero\Studio\Projects\Progeto_teste_Madcal\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Querys"/>
+    <File Path="Querys\module.contas.pas"/>
+    <File Path="Querys\module.orcamento.pas"/>
+    <File Path="Querys\module.produtos.pas"/>
+    <File Path="Querys\module.tbPrecos.pas"/>
+    <File Path="Querys\module.politica.precos.pas"/>
+    <File Path="Querys\module.itens.pas"/>
+    <File Path="Utils"/>
+    <File Path="Utils\utility.pas"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

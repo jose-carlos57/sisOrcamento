@@ -1,0 +1,33 @@
+unit utils;
+
+interface
+uses
+ Winapi.Windows,
+  Winapi.Messages,
+  System.SysUtils,
+  System.Variants,
+  System.Classes,
+  Vcl.Graphics,
+  Vcl.Controls,
+  Vcl.Forms,
+  Vcl.Dialogs,
+  Vcl.ExtCtrls,
+  Vcl.Buttons,
+  Vcl.StdCtrls,
+  Vcl.CheckLst,
+  Vcl.ComCtrls;
+
+function capturaClick(RadioAtivo: TRadioButton; RadioInativo:TRadioButton; var status: Integer);
+implementation
+
+function capturaClick(RadioAtivo: TRadioButton; RadioInativo:TRadioButton; var status: Integer);
+begin
+  if RadioAtivo.Checked  then
+      status := 1
+  else if RadioInativo.Checked then
+      status := 0
+  else
+    Result :=
+
+end;
+end.
